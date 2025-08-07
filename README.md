@@ -155,6 +155,4 @@ Cloud & DevOps Engineer
 
 ---
 
-## 📄 License
 
-MIT License – Use at your own risk. Contributions welcome!
